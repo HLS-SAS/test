@@ -1,2 +1,2 @@
-/* testfred */
+/* testfred ***/
 proc setinit; run;
