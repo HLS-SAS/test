@@ -1,0 +1,2 @@
+/* testfred */
+proc setinit; run;
